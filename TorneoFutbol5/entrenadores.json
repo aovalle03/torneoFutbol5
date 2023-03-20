@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "64178c1fbe5e8f45f54c3e22"
+  },
+  "Nombre Entrenador": "CARLO ANCELOTTI",
+  "Edad": "35",
+  "Equipo Asignado": "Real Madrid",
+  "Partidos Ganados": "18",
+  "Partidos Empatados": "2",
+  "Partidos Perdidos": "0"
+},{
+  "_id": {
+    "$oid": "64178c1fbe5e8f45f54c3e23"
+  },
+  "Nombre Entrenador": "XAVI HERNÁNDEZ",
+  "Edad": "35",
+  "Equipo Asignado": "FC Barcelona",
+  "Partidos Ganados": "15",
+  "Partidos Empatados": "2",
+  "Partidos Perdidos": "3"
+},{
+  "_id": {
+    "$oid": "64178c1fbe5e8f45f54c3e24"
+  },
+  "Nombre Entrenador": "DIEGO PABLO SIMEONEZ",
+  "Edad": "35",
+  "Equipo Asignado": "Atletico Madrid",
+  "Partidos Ganados": "12",
+  "Partidos Empatados": "4",
+  "Partidos Perdidos": "4"
+}]

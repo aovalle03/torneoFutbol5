@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "64177601be5e8f45f54c3df5"
+  },
+  "Fecha del partido": "15/3/2023",
+  "hora del partido": "10:00am",
+  "Equipo local": "Real Madrid",
+  "Equipo visitante": "FC Barcelona",
+  "Arbitro": "Diego Abal"
+},{
+  "_id": {
+    "$oid": "64177601be5e8f45f54c3df6"
+  },
+  "Fecha del partido": "17/3/2023",
+  "hora del partido": "09:0am",
+  "Equipo local": "Real Sociedad",
+  "Equipo visitante": "Real Madrid",
+  "Arbitro": "Ainara Andrea Acevedo Dudley"
+},{
+  "_id": {
+    "$oid": "64177601be5e8f45f54c3df7"
+  },
+  "Fecha del partido": "17/3/2023",
+  "hora del partido": "12:00pm",
+  "Equipo local": "Real Betis",
+  "Equipo visitante": "Barcelona",
+  "Arbitro": "Mehdi Abid Charef"
+},{
+  "_id": {
+    "$oid": "64177601be5e8f45f54c3df8"
+  },
+  "Fecha del partido": "15/3/2023",
+  "hora del partido": "12:00pm",
+  "Equipo local": "Villarreal",
+  "Equipo visitante": "Atlético de Madrid",
+  "Arbitro": "Khalil Ibrahim Al Ghamdi"
+},{
+  "_id": {
+    "$oid": "6417c317c3c65c2aa2af2fc7"
+  }
+},{
+  "_id": {
+    "$oid": "6417c46ec3c65c2aa2af2fca"
+  },
+  "id": "",
+  "Fecha del partido": "19/3/2023",
+  "hora del partido": "12:00pm",
+  "Equipo local": "Villarreal",
+  "Equipo visitante": "Osuna",
+  "Arbitro": "Khalil Ibrahim Al Ghamdi"
+}]

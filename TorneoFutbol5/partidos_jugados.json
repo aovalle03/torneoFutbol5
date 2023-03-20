@@ -1,0 +1,93 @@
+[{
+  "_id": {
+    "$oid": "64177592be5e8f45f54c3def"
+  },
+  "Fecha del partido": "15/3/2023",
+  "hora del partido": "10:00am",
+  "Equipo local": "Real Madrid",
+  "Equipo visitante": "FC Barcelona",
+  "Arbitro": "Diego Abal",
+  "Gol local": "3",
+  "Gol visitante": "1",
+  "Faltas local": "5",
+  "Faltas Visitante": "8",
+  "Amarilla Local": "1",
+  "Rojas Local": "0",
+  "Amarilla Visitante": "2",
+  "Rojas Visitante": "0",
+  "Esquinas local": "6",
+  "Esquinas Visitante": "5",
+  "Tiros libre local": "8",
+  "Tiros libre Visitante": "",
+  "Posesion Balon Local": "60",
+  "Posesion Balon Visitante": "40"
+},{
+  "_id": {
+    "$oid": "64177592be5e8f45f54c3df0"
+  },
+  "Fecha del partido": "17/3/2023",
+  "hora del partido": "09:0am",
+  "Equipo local": "Real Sociedad",
+  "Equipo visitante": "Real Madrid",
+  "Arbitro": "Ainara Andrea Acevedo Dudley",
+  "Gol local": "0",
+  "Gol visitante": "3",
+  "Faltas local": "5",
+  "Faltas Visitante": "8",
+  "Amarilla Local": "1",
+  "Rojas Local": "0",
+  "Amarilla Visitante": "2",
+  "Rojas Visitante": "0",
+  "Esquinas local": "6",
+  "Esquinas Visitante": "5",
+  "Tiros libre local": "8",
+  "Tiros libre Visitante": "",
+  "Posesion Balon Local": "60",
+  "Posesion Balon Visitante": "40"
+},{
+  "_id": {
+    "$oid": "64177592be5e8f45f54c3df1"
+  },
+  "Fecha del partido": "17/3/2023",
+  "hora del partido": "12:00pm",
+  "Equipo local": "Real Betis",
+  "Equipo visitante": "Barcelona",
+  "Arbitro": "Mehdi Abid Charef",
+  "Gol local": "1",
+  "Gol visitante": "3",
+  "Faltas local": "5",
+  "Faltas Visitante": "8",
+  "Amarilla Local": "1",
+  "Rojas Local": "0",
+  "Amarilla Visitante": "2",
+  "Rojas Visitante": "0",
+  "Esquinas local": "6",
+  "Esquinas Visitante": "5",
+  "Tiros libre local": "8",
+  "Tiros libre Visitante": "",
+  "Posesion Balon Local": "60",
+  "Posesion Balon Visitante": "40"
+},{
+  "_id": {
+    "$oid": "64177592be5e8f45f54c3df2"
+  },
+  "Fecha del partido": "15/3/2023",
+  "hora del partido": "12:00pm",
+  "Equipo local": "Villarreal",
+  "Equipo visitante": "Atlético de Madrid",
+  "Arbitro": "Khalil Ibrahim Al Ghamdi",
+  "Gol local": "1",
+  "Gol visitante": "2",
+  "Faltas local": "5",
+  "Faltas Visitante": "8",
+  "Amarilla Local": "1",
+  "Rojas Local": "0",
+  "Amarilla Visitante": "2",
+  "Rojas Visitante": "0",
+  "Esquinas local": "6",
+  "Esquinas Visitante": "5",
+  "Tiros libre local": "8",
+  "Tiros libre Visitante": "",
+  "Posesion Balon Local": "60",
+  "Posesion Balon Visitante": "40"
+}]

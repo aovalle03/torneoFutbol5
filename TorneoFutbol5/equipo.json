@@ -1,0 +1,61 @@
+[{
+  "_id": "1000",
+  "NombreEquipo": "Real Madrid",
+  "PartidosJugados": "20",
+  "PartidosGanados": "18",
+  "PartidosPerdidos": "1",
+  "partidosEmpatados": "1",
+  "PosicionCampeonato": "1",
+  "GolesAnotados": "32",
+  "GolesRecibidos": "3"
+},{
+  "_id": "1001",
+  "NombreEquipo": "FC Barcelona",
+  "PartidosJugados": "20",
+  "PartidosGanados": "15",
+  "PartidosPerdidos": "3",
+  "partidosEmpatados": "2",
+  "PosicionCampeonato": "2",
+  "GolesAnotados": "25",
+  "GolesRecibidos": "8"
+},{
+  "_id": "1002",
+  "NombreEquipo": "Atlético de Madrid",
+  "PartidosJugados": "20",
+  "PartidosGanados": "12",
+  "PartidosPerdidos": "4",
+  "partidosEmpatados": "4",
+  "PosicionCampeonato": "3",
+  "GolesAnotados": "20",
+  "GolesRecibidos": "6"
+},{
+  "_id": "1003",
+  "NombreEquipo": "Real Sociedad",
+  "PartidosJugados": "20",
+  "PartidosGanados": "10",
+  "PartidosPerdidos": "6",
+  "partidosEmpatados": "2",
+  "PosicionCampeonato": "4",
+  "GolesAnotados": "16",
+  "GolesRecibidos": "8"
+},{
+  "_id": "1004",
+  "NombreEquipo": "Villarreal",
+  "PartidosJugados": "20",
+  "PartidosGanados": "8",
+  "PartidosPerdidos": "6",
+  "partidosEmpatados": "6",
+  "PosicionCampeonato": "5",
+  "GolesAnotados": "16",
+  "GolesRecibidos": "5"
+},{
+  "_id": "1005",
+  "NombreEquipo": "Osasuna",
+  "PartidosJugados": "20",
+  "PartidosGanados": "8",
+  "PartidosPerdidos": "7",
+  "partidosEmpatados": "5",
+  "PosicionCampeonato": "6",
+  "GolesAnotados": "15",
+  "GolesRecibidos": "10"
+}]

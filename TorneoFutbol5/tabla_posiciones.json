@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6417ae1fb03f22e7be87e3dd"
+  },
+  "Nombre equipo": "Real Madrid",
+  "Partidos Ganados": "18",
+  "Partidos Perdidos": "1",
+  "Puntos Adquiridos": "55",
+  "Posicion": "1"
+},{
+  "_id": {
+    "$oid": "6417ae1fb03f22e7be87e3de"
+  },
+  "Nombre equipo": "FC Barcelona",
+  "Partidos Ganados": "15",
+  "Partidos Perdidos": "3",
+  "Puntos Adquiridos": "48",
+  "Posicion": "2"
+},{
+  "_id": {
+    "$oid": "6417ae1fb03f22e7be87e3df"
+  },
+  "Nombre equipo": "Atletico Madrid",
+  "Partidos Ganados": "12",
+  "Partidos Perdidos": "4",
+  "Puntos Adquiridos": "40",
+  "Posicion": "3"
+}]

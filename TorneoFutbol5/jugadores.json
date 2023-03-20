@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "64177f68be5e8f45f54c3e06"
+  },
+  "Nombre jugador": "Thibaut Courtois",
+  "Edad": "32",
+  "Equipo": "Real Madrid",
+  "Posicion": "Portero",
+  "Goles anotados": "0",
+  "amarilla torneo": "0",
+  "rojas torneo": "0"
+},{
+  "_id": {
+    "$oid": "64177f68be5e8f45f54c3e07"
+  },
+  "Nombre jugador": "Toni Kroos",
+  "Edad": "323",
+  "Equipo": "Real Madrid",
+  "Posicion": "Medio Centro",
+  "Goles anotados": "1",
+  "amarilla torneo": "1",
+  "rojas torneo": "0"
+},{
+  "_id": {
+    "$oid": "64177f68be5e8f45f54c3e08"
+  },
+  "Nombre jugador": "Karim Benzema",
+  "Edad": "35",
+  "Equipo": "Real Madrid",
+  "Posicion": "Delantero Centro",
+  "Goles anotados": "1",
+  "amarilla torneo": "0",
+  "rojas torneo": "0"
+},{
+  "_id": {
+    "$oid": "64177f68be5e8f45f54c3e09"
+  },
+  "Nombre jugador": "Vinicius Junior",
+  "Edad": "35",
+  "Equipo": "Real Madrid",
+  "Posicion": "Extremo Izquierdo",
+  "Goles anotados": "4",
+  "amarilla torneo": "0",
+  "rojas torneo": "0"
+},{
+  "_id": {
+    "$oid": "64177f68be5e8f45f54c3e0a"
+  },
+  "Nombre jugador": "Luka Modric",
+  "Edad": "32",
+  "Equipo": "Real Madrid",
+  "Posicion": "Medio Centro",
+  "Goles anotados": "1",
+  "amarilla torneo": "1",
+  "rojas torneo": "0"
+},{
+  "_id": {
+    "$oid": "64178185be5e8f45f54c3e0c"
+  },
+  "Nombre jugador": "Marc-André ter Stegen",
+  "Edad": "32",
+  "Equipo": "FC Barcelona",
+  "Posicion": "Portero",
+  "Goles anotados": "0",
+  "amarilla torneo": "0",
+  "rojas torneo": "0"
+},{
+  "_id": {
+    "$oid": "64178185be5e8f45f54c3e0d"
+  },
+  "Nombre jugador": "Pedri",
+  "Edad": "323",
+  "Equipo": "FC Barcelona",
+  "Posicion": "Medio Centro",
+  "Goles anotados": "1",
+  "amarilla torneo": "1",
+  "rojas torneo": "0"
+},{
+  "_id": {
+    "$oid": "64178185be5e8f45f54c3e0e"
+  },
+  "Nombre jugador": "Robert Lewandowski",
+  "Edad": "35",
+  "Equipo": "FC Barcelona",
+  "Posicion": "Delantero Centro",
+  "Goles anotados": "1",
+  "amarilla torneo": "0",
+  "rojas torneo": "0"
+},{
+  "_id": {
+    "$oid": "64178185be5e8f45f54c3e0f"
+  },
+  "Nombre jugador": "Ferran Torres",
+  "Edad": "35",
+  "Equipo": "FC Barcelona",
+  "Posicion": "Extremo Izquierdo",
+  "Goles anotados": "4",
+  "amarilla torneo": "0",
+  "rojas torneo": "0"
+},{
+  "_id": {
+    "$oid": "64178185be5e8f45f54c3e10"
+  },
+  "Nombre jugador": "Franck Kessié",
+  "Edad": "32",
+  "Equipo": "FC Barcelona",
+  "Posicion": "Medio Centro",
+  "Goles anotados": "1",
+  "amarilla torneo": "1",
+  "rojas torneo": "0"
+}]

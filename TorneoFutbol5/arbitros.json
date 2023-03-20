@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "64177801be5e8f45f54c3dff"
+  },
+  "Nombre Arbitro": "Diego Abal",
+  "Edad": "35",
+  "Numero de documento": "1025154548",
+  "tipo de documento": "CC"
+},{
+  "_id": {
+    "$oid": "64177801be5e8f45f54c3e00"
+  },
+  "Nombre Arbitro": "Mehdi Abid Charef",
+  "Edad": "38",
+  "Numero de documento": "1025154549",
+  "tipo de documento": "CC"
+},{
+  "_id": {
+    "$oid": "64177801be5e8f45f54c3e01"
+  },
+  "Nombre Arbitro": "Ainara Andrea Acevedo Dudley",
+  "Edad": "28",
+  "Numero de documento": "1025154550",
+  "tipo de documento": "CC"
+},{
+  "_id": {
+    "$oid": "64177801be5e8f45f54c3e02"
+  },
+  "Nombre Arbitro": "Khalil Ibrahim Al Ghamdi",
+  "Edad": "36",
+  "Numero de documento": "1025154553",
+  "tipo de documento": "CC"
+}]
